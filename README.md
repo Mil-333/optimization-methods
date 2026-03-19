@@ -50,8 +50,8 @@ The method divides the interval \([a, b]\) into equal segments and evaluates the
 **Result:** The approximate minimum is at **x = 1.5**
 
 ---
-
+plt.savefig("optimization_plot.png")
 ## Visualization
 
-![Uniform Search](optimization_plot.png)
+
 ![Plot](optimization_plot.png)
