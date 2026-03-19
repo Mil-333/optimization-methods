@@ -53,4 +53,4 @@ The method divides the interval \([a, b]\) into equal segments and evaluates the
 
 ## Visualization
 
-![Uniform Search](optimization_plot.png)
+![Plot](optimization_plot.png)
